@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Cultura POP',
-    'De que música do cantor JÃO pertence esse trecho "Todo verão termina, eu amo despedida e se eu te amei, eu peço perdão..."?',
+    'A que música do cantor JÃO pertence esse trecho: "Todo verão termina, eu amo despedida e se eu te amei, eu peço perdão..."?',
     'Santo, 2021'
 )
 
@@ -24,7 +24,7 @@ criaCartao(
 
 criaCartao(
     'Cultura POP',
-    'A que música do JÃO pertence esse trecho "Eu não quero mais beber assim, na esperança de te ter pra mim..."?',
+    'A que música do JÃO pertence esse trecho: "Eu não quero mais beber assim, na esperança de te ter pra mim..."?',
     'Pertence a música "álcool"'
 )
 
